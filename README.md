@@ -6,12 +6,10 @@
 ### <div align="center">I'm Sheila, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working 
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
+ 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
@@ -107,24 +105,12 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=SheilaTran-UCF&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
 <br />
 
 ----
