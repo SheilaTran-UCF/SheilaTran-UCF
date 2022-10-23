@@ -3,14 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Sheila, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Sheila, a full-time full-stack freelance developer 👨‍💻 working remotely  🚀</div>  
   
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+
   
 
 <br/>  
@@ -53,12 +53,9 @@
 
 
 
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
 
-</td></tr></table>  
+
+
 
 <br/>  
 
@@ -104,4 +101,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
