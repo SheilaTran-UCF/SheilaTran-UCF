@@ -3,25 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Sheila, a full-time full-stack freelance developer 👨‍💻 working remotely  🚀</div>  
+### <div align="center">I'm Sheila, a full-time full-stack Software Programming developer 👨‍💻 working remotely  🚀</div>  
   
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 
   
 
 <br/>  
-
-
-
-
-
-
-
-
 
 <br/>  
 
